@@ -30,9 +30,9 @@ El trabajo se desarrolló en **Google Colab**, siguiendo buenas prácticas de an
 
 ## 🔗 Abrir en Google Colab
 
-Hacé clic en el botón para ejecutar el notebook directamente:
+## 🔗 Abrir en Google Colab
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabo-utn/Alegra-sql/blob/main/Laboratorio.ipynb)
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabo-utn/Alegra-sq/blob/main/lab_egresados.ipynb)
 
 ---
 
