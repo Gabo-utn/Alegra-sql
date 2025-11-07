@@ -28,7 +28,6 @@ El trabajo se desarrolló en **Google Colab**, siguiendo buenas prácticas de an
 
 ---
 
-## 🔗 Abrir en Google Colab
 
 ## 🔗 Abrir en Google Colab
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Gabo-utn/Alegra-sql/blob/main/Laboratorio.ipynb)
@@ -82,18 +81,7 @@ El trabajo se desarrolló en **Google Colab**, siguiendo buenas prácticas de an
 Si querés ver más trabajos o colaborar:
 
 **Github:** https://github.com/Gabo-utn  
-**LinkedIn:** _agregar tu link aquí_  
+**LinkedIn:** https://www.linkedin.com/in/campidev/
 
----
-
-## ✅ Estado del proyecto
-
-✔️ Finalizado y funcional  
-✔️ Notebook ejecutable  
-✔️ Documentación completa  
-
----
-
-¡Listo para entregar! 🎓📊✨
 
 
